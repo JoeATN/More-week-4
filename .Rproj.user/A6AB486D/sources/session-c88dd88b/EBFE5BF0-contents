@@ -1,0 +1,35 @@
+---
+title: "Test doc"
+author: "J Read"
+date: "2025-10-17"
+output:
+  pdf_document: default
+  html_document: default
+---
+# My report 
+
+This is my report 
+
+## Part of report 
+
+This is part of my report
+
+1. Radiohead
+2. QOTSA 
+3. Sonic Youth 
+
+
+Radiohead
+QOTSA 
+Sonic Youth
+
+
+
+```{r, echo=FALSE}
+
+```
+
+```{r, include=FALSE}
+
+```
+
